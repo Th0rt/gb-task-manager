@@ -1,0 +1,12 @@
+body {
+  background-color: whitesmoke;
+  margin: 24px 12px;
+}
+
+.reset {
+  margin: 24px 0;
+}
+
+.daily {
+  width: 50%;
+}
